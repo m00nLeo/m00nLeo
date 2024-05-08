@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/longtrandev.svg" width="1200" alt="longtran-official" />
+  <img src="svg/longtrandev.svg" width="1400" alt="longtran-official" />
 </a>
 
 <h2 align="center">⭐ About Me ⭐</h2>
