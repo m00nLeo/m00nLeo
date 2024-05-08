@@ -2,18 +2,15 @@
   <img src="svg/longtrandev.svg" width="1200" alt="longtran-official" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Hoang Long</h1>
 <h3 align="center">A passionate frontend developer based in Ho Chi Minh City, Vietnam</h3>
 
 - 🔭 I’m currently working on **Pokemon Android Movie App**
 
 - 🌱 I’m currently learning **Fullstack Developer (ReactJS, NodeJS), React Native**
 
-- 👨‍💻 All of my projects are available at [https://longtran-portfolio.vercel.app](https://longtran-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [My Precious Porfolio 😻](https://longtran-portfolio.vercel.app)
 
 - 💬 Ask me about **React, NodeJS, MERN, React Native**
-
-- 📫 How to reach me **tranlehoanglong2001@gmail.com**
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -22,8 +19,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
+
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -31,6 +27,8 @@
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -48,14 +46,12 @@
 &nbsp;
 
 <br>
+<br>
 
 <h2 align="center">😸 Where to find me 😸</h2>
 <br>
 
 <div align="center">
-  <a href="https://longtran-portfolio.vercel.app" target="blank">
-    <img width="90" height="90" src="images/logo-transparent-bg-192x192.png" alt="blog" />
-  </a>
   <a href="https://www.facebook.com/long.tranlehoang" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
