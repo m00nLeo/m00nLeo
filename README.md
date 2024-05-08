@@ -2,6 +2,8 @@
   <img src="svg/longtrandev.svg" width="1200" alt="longtran-official" />
 </a>
 
+<h2 align="center">⭐ About Me ⭐</h2>
+
 <h3 align="center">A passionate frontend developer based in Ho Chi Minh City, Vietnam</h3>
 
 - 🔭 I’m currently working on **Pokemon Android Movie App**
