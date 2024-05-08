@@ -32,7 +32,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFCA28" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00758F" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
