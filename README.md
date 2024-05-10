@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate frontend developer based in Ho Chi Minh City, Vietnam</h3>
 
-- 🔭 I’m currently working on **Pokemon Android Movie App**
+- 🔭 I’m currently working on **Pokemon Android Movie App - React Native**
 
 - 🌱 I’m currently learning **Fullstack Developer (ReactJS, NodeJS), React Native**
 
