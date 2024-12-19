@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Fullstack Developer (ReactJS, NodeJS), React Native**
 
-- 👨‍💻 All of my projects are available at [My Precious Porfolio 😻](https://longtran-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [My Precious Portfolio 😻](https://longtran-portfolio.vercel.app)
 
-- 💬 Ask me about **React, NodeJS, MERN, React Native**
+- 💬 Ask me about **React, NextJS, NodeJS, MERN, React Native**
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
